@@ -13,4 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require bower/webrtc-adapter/adapter
+//= require bower/socket.io-client/socket.io.js
+//= require webrtc
 //= require_tree .

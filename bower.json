@@ -1,0 +1,10 @@
+{
+  "name": "WebRTC-Test",
+  "version": "0.0.1",
+  "dependencies": {
+    "webrtc-adapter": "webrtc-adapter#gh-pages",
+    "socket.io-client": "~1.4.8"
+  },
+  "devDependencies": {},
+  "private": true
+}

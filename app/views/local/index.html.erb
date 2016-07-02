@@ -1,2 +1,12 @@
 <h1>Local#index</h1>
-<p>Find me in app/views/local/index.html.erb</p>
+<p>Local Machine</p>
+<div>
+    <button id="call">Call</button>
+</div>
+<div>
+    <video id="local-video" autoplay></video>
+</div>
+<script>
+var machine = new WebRTC.LocalMachine();
+machine.start();
+</script>
